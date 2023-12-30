@@ -29,6 +29,7 @@ A combinational circuit is a circuit in which the output depends on the present 
 
 6.Verification: Click on "File" > "New" > "Verification/Debugging Files" > "University Program VWF". Once Waveform is created Right Click on the Input/Output Panel > " Insert Node or Bus" > Click on Node Finder > Click On "List" > Select All. Give the Input Combinations according to the Truth Table amd then simulate the Output waveform
 
+
 ## Program:
 module exp2de(A,B,C,D,F1);	                                               input A,B,C,D;
 output F1;
